@@ -1,0 +1,32 @@
+1. BCD
+2. C
+3. C
+4. ABE
+5. IMAGE
+6. D
+7. IMAGE
+8. C
+9. ABC
+10. IMAGE
+11. C
+12. ABC
+13. B
+14. un diagrama Entidad-Relación (ER) es la interaccion de las entidades (persona,objeto o conceptos) para mejor desarrollo y visualizaciones de relaciones en las claves de software
+15. A
+16. AC
+17. C
+18. B
+19. IDENTIFICATIVA:la clave primaria de la entidad padre se convierte en parte de la clave primaria de la entidad hija. NO IDENTIFICATIVA:La entidad hija no depende de la entidad padre para su existencia.
+20. ABCDE
+21.  C
+22.  ADE
+23.  IMAGE
+24.  C
+25. ACE
+26. D
+27. BASANDONOS EN LAS RESPUESTA 19 . la relacion de recursividad seria el CURSO_PROFESOR ya que cuenta con un PREREQUISITO PARA PODER QUE EXISTA.
+28. C
+29. ACE
+30. IMAGE/LINK 
+
+https://drive.google.com/file/d/1y8g1rcz_xqLyzOd-RPB_XtqhuFrnIAgY/view?usp=sharing
